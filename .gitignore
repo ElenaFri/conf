@@ -1,0 +1,14 @@
+# VS Code
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
